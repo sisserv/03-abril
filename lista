@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="" group-title="CINEMA Y SERIES ",EUROCHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png" group-title="CINEMA Y SERIES ",EUROCHANNEL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/57
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/8aeb3-studiouniversal.png" group-title="CINEMA Y SERIES ",STUDIO UNIVERSAL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/58
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESP" tvg-logo="https://ugc.kn3.net/i/760x/http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png" group-title="CINEMA Y SERIES ",TNT ESP
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/59
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="" group-title="CINEMA Y SERIES ",FXX
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://fansided.com/files/2017/01/fxx-logo.jpg" group-title="CINEMA Y SERIES ",FXX
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/60
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="CINEMA Y SERIES ",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo.jpg" group-title="CINEMA Y SERIES ",AXN
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/61
 #EXTINF:-1 tvg-id="" tvg-name="AMC ESP" tvg-logo="" group-title="CINEMA Y SERIES ",AMC ESP
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/62
-#EXTINF:-1 tvg-id="A&E ESP" tvg-name="A&E ESP" tvg-logo="" group-title="CINEMA Y SERIES ",A&E ESP
+#EXTINF:-1 tvg-id="A&E ESP" tvg-name="A&E ESP" tvg-logo="https://guitargirlmag.com/wp-content/uploads/2020/03/AE.max-640x640.jpg" group-title="CINEMA Y SERIES ",A&E ESP
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/63
 #EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://cdn.mitvstatic.com/channels/a6911fcf-0430-4e30-9302-d6e022438559_m.jpg" group-title="CINEMA Y SERIES ",CANAL FOX
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/64
@@ -132,7 +132,7 @@ http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/537
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/539
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" group-title="MUSICA",MTV
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/540
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="data:image/png;base64,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" group-title="NOTICIAS",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_400x400.jpg" group-title="NOTICIAS",CNN INTERNACIONAL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/544
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/546
@@ -541,7 +541,7 @@ http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/495
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/496
 #EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="MUNDO Y CULTURA",INVESTIGATION DISCOVERY
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/498
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="data:image/png;base64,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" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://decoder.ucoz.com/HR/20110419001730Animal_Planet_Canada_Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/499
 #EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS PREMIUM HD" tvg-logo="" group-title="DEPORTES",AR | FOX SPORTS PREMIUM HD
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/500
@@ -561,8 +561,6 @@ http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/502
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Bienvenidos a la jungla - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg" group-title="PELICULAS 2017",Jumanji: Bienvenidos a la jungla - 2017
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/511.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/512
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA HD" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="POR PAISES ",ECUADOR: ECUAVISA HD
@@ -695,7 +693,7 @@ http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1645
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1707
 #EXTINF:-1 tvg-id="" tvg-name="RCN SD" tvg-logo="https://cdn.colombia.com/sdi/2018/02/19/a-pesar-de-la-crisis-el-canal-rcn-no-esta-en-quiebra-611066.jpg" group-title="POR PAISES ",RCN SD
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1708
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="data:image/png;base64,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" group-title="HD 1080",HBO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://www.pngjoy.com/pngm/223/4342533_hbo-logo-hbo-plus-logo-png-png-download.png" group-title="HD 1080",HBO PLUS
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1922
 #EXTINF:-1 tvg-id="" tvg-name="PR-UNIVISION" tvg-logo="http://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png" group-title="POR PAISES ",PR-UNIVISION
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1984
@@ -703,328 +701,31 @@ http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1984
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/1985
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="DEPORTES",ES: MOVISTAR FORMULA 1 HD
 http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apolo 11 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h69OPPojqbIObPCfVDsMJAPgPZm.jpg" group-title="PELICULAS  2019",Apolo 11 - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chicuarotes - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qCDtYCeBF7PwV42NDw2VrtNgA0.jpg" group-title="PELICULAS  2019",Chicuarotes - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inside Man: Most Wanted - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg" group-title="PELICULAS  2019",Inside Man: Most Wanted - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Todas las Pecas del Mundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vasXCxcYhDnIcbOvyJG2KfHluvX.jpg" group-title="PELICULAS  2019",Todas las Pecas del Mundo - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joker - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="PELICULAS  2019",Joker - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 2 (El protector 2) - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqRqKWSOxMu6nV16TtqKvsYFQ98.jpg" group-title="PELICULAS 2018",The Equalizer 2 (El protector 2) - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Millennium: Lo que no te mata te hace más fuerte - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c156owEtfOYVIOl0LSrqjRewZdg.jpg" group-title="PELICULAS 2018",Millennium: Lo que no te mata te hace más fuerte - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Wandering Earth - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcoCzOBtMzm31hGV1WfWgZX83xx.jpg" group-title="PELICULAS  2019",The Wandering Earth - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIzHw6az7SHEjxaVYy3hMd1Vyc.jpg" group-title="PELICULAS 2018",Venom - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mia y el león blanco - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlP3Ci2d2A3HuZFzl3OHlDGQrQt.jpg" group-title="PELICULAS 2018",Mia y el león blanco - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Falcons - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEPUHkppj4HgAJQCCsBqDLcJLiB.jpg" group-title="PELICULAS 2018",The Falcons - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acusada - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFc5XRROxhYY6jXGsRRA02B6N7H.jpg" group-title="PELICULAS 2018",Acusada - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una oración antes del amanecer - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg" group-title="PELICULAS 2018",Una oración antes del amanecer - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Vigilante - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DT9Ywnq7NjQ8DvSrJs0mdxJCp5.jpg" group-title="PELICULAS  2019",A Vigilante - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La boda de mi ex - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqkPHzcwbdqA8gTY1QTxAxIooE.jpg" group-title="PELICULAS 2018",La boda de mi ex - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monsters and Men - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN6yMb1idrgscnwL7E2aa05arue.jpg" group-title="PELICULAS 2018",Monsters and Men - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ruben Brandt, coleccionista - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8IEkAXTMRxNGp8ZJau9KPLHS56.jpg" group-title="PELICULAS 2018",Ruben Brandt, coleccionista - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terremoto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg" group-title="PELICULAS 2018",Terremoto - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perdona que te moleste - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jkhB6WEiLo1mVoXIy7Qz3u9prI.jpg" group-title="PELICULAS 2018",Perdona que te moleste - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7117 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As4rgbUJkmizYpefeozyUXYrOx3.jpg" group-title="PELICULAS 2018",7117 - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ralph rompe Internet - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As4rgbUJkmizYpefeozyUXYrOx3.jpg" group-title="PELICULAS 2018",Ralph rompe Internet - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Grinch - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg" group-title="PELICULAS 2018",El Grinch - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk6IErM0acV6HJRwKZy8ecBoddc.jpg" group-title="PELICULAS 2018",Bohemian Rhapsody - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sobredosis de Amor - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUJrGpA3qkddYonre6DFePfFeAY.jpg" group-title="PELICULAS 2018",Sobredosis de Amor - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fractured - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI3b1nQ4z4vNsXNzn0STTwoEGXQ.jpg" group-title="PELICULAS 2018",Fractured - 2015
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3790.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boarding School - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg" group-title="PELICULAS 2018",Boarding School - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gonjiam: Haunted Asylum - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" group-title="PELICULAS 2018",Gonjiam: Haunted Asylum - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3792.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mommy's Little Angel - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88debKjBpjf99QQNg0ENHsEI7M6.jpg" group-title="PELICULAS 2018",Mommy's Little Angel - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suspiria - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qklGv6ZvmIpEP7RTInbngyKUT5V.jpg" group-title="PELICULAS 2018",Suspiria - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3794.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La perfección - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZiTyB6KbUZoPxEblaxkLr62rBX.jpg" group-title="PELICULAS 2018",La perfección - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3795.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una foto antes de morir - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hguX3RBmXa5mXh8uQ0PdwboWEo0.jpg" group-title="PELICULAS 2018",Una foto antes de morir - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Escuadrón del Diablo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvs2ZLlqzF0wyzC8pZBDCSfrDBV.jpg" group-title="PELICULAS 2018",El Escuadrón del Diablo - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3797.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kursk - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BTajOVHKlKZzNge6prHv8hRqI7.jpg" group-title="PELICULAS 2018",Kursk - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3798.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ártico - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg" group-title="PELICULAS 2018",Ártico - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3799.mkv
-#EXTINF:-1 tvg-id="" tvg-name="London Fields - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OfQVm5GexlAREp8FoR4ILxp35T.jpg" group-title="PELICULAS 2018",London Fields - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3800.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La monja - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" group-title="PELICULAS 2018",La monja - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anna - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="PELICULAS  2019",Anna - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom: aniquilación - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g78vTiPcIGgpLHG7gktEg0rqF0D.jpg" group-title="PELICULAS  2019",Doom: aniquilación - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="General Commander - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tarle8uNAqiQfCTY95U0Oj1DxIU.jpg" group-title="PELICULAS  2019",General Commander - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: Rey de los Monstruos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg" group-title="PELICULAS  2019",Godzilla: Rey de los Monstruos - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNSpy125u15oQ9EOsDLzmMSvvub.jpg" group-title="PELICULAS  2019",Hellboy - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El canto del lobo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oSxFcIxBcJqkajoRgEy4byQsBF.jpg" group-title="PELICULAS  2019",El canto del lobo - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Point Blank: cuenta atrás - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kX02JwHYaKYIvhP4HN5Qjrug7D.jpg" group-title="PELICULAS  2019",Point Blank: cuenta atrás - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaft - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg" group-title="PELICULAS  2019",Shaft - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3853.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="PELICULAS  2019",¡Shazam! - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3854.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Lejos de Casa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="PELICULAS  2019",Spider-Man: Lejos de Casa - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3855.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Final Wish - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lFQPOhOAg1gAQgFsXdfYfXFbI6.jpg" group-title="PELICULAS  2019",The Final Wish - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3856.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Capítulo 3 - Parabellum - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="PELICULAS  2019",John Wick: Capítulo 3 - Parabellum - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los vigilantes de Malibú - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUP0w4h689u6qbbkjfXO8yI8Zu1.jpg" group-title="PELICULAS  2019",Los vigilantes de Malibú - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3858.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Upstarts - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBt3CbqUra6Z6wBUBhAF908FSMu.jpg" group-title="PELICULAS  2019",Upstarts - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Criminales en el mar - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D7QFUwKfdQswwINWnjZMCwwcSG.jpg" group-title="PELICULAS  2019",Criminales en el mar - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3860.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCZKBdRK3eDa8af7N4n8CGwNyVx.jpg" group-title="PELICULAS  2019",No manches Frida 2 - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3861.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Más que madres - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qVErJgfMcg3TzfYcrbaXBcrXV9.jpg" group-title="PELICULAS  2019",Más que madres - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3862.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dos Padres en Apuros - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBdnhbKAot9UwRAnPdH53pK9nkW.jpg" group-title="PELICULAS  2019",Dos Padres en Apuros - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3863.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Timadoras compulsivas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TI2hkMQ2pmzoVKNNko2CSuvJfH.jpg" group-title="PELICULAS  2019",Timadoras compulsivas - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tell Me Who I Am - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMfiD7wjdwRxPSdZ7gz7iNO3Z0B.jpg" group-title="PELICULAS  2019",Tell Me Who I Am - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Dog Days of Winter - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJXc7t25ayCtfn5tNxs2TOQcJeO.jpg" group-title="PELICULAS  2019",The Dog Days of Winter - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3866.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El camino: una película de Breaking Bad - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg" group-title="PELICULAS  2019",El camino: una película de Breaking Bad - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heridas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0GL9nAza9fuUVSj7m3qTMOD0DG.jpg" group-title="PELICULAS  2019",Heridas - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3868.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Bombay - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xehGSPoQd4xpEqzUATzmQbZ5Q1.jpg" group-title="PELICULAS  2019",Hotel Bombay - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El arte de vivir bajo la lluvia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg" group-title="PELICULAS  2019",El arte de vivir bajo la lluvia - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3870.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Serenity - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OrpkiogKFyIIwV7pILy4g5zeGe.jpg" group-title="PELICULAS  2019",Serenity - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3871.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow Man - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YVxf3nUxrJ2xX4SU7Efp7LqPZ5.jpg" group-title="PELICULAS  2019",The Tomorrow Man - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3873.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inesperado - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvCtAz8z5tF49a7q9RRHvxiTjzv.jpg" group-title="PELICULAS  2019",Inesperado - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aladdín - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg" group-title="PELICULAS  2019",Aladdín - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman vs. las Tortugas Ninja - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgBBB3Auky610UPhWdb0hBnwQzM.jpg" group-title="PELICULAS  2019",Batman vs. las Tortugas Ninja - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3876.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maléfica: Maestra del mal - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="PELICULAS  2019",Maléfica: Maestra del mal - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Géminis - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJpbw3pVCAKksp1LgsTGW7c8SFV.jpg" group-title="PELICULAS  2019",Géminis - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dora y la ciudad perdida - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFzRbVWduN0qewAjLJEKlNvMunt.jpg" group-title="PELICULAS  2019",Dora y la ciudad perdida - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3879.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duvp1mgeVYs1vUknW8KXxhnVhzh.jpg" group-title="PELICULAS  2019",Dumbo - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3880.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey león - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yysmQpv26DdP79XtR3zsL3nVFbN.jpg" group-title="PELICULAS  2019",El rey león - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3881.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El parque mágico - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW6JtZ5cyzfVe5s9DFDKaJay94b.jpg" group-title="PELICULAS  2019",El parque mágico - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Supermonstruos: Una amistad con mucha garra - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyUUS1Cdz8U71vREPMZbHMT5fGr.jpg" group-title="PELICULAS  2019",Supermonstruos: Una amistad con mucha garra - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teen Titans Go! vs. Teen Titans - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdHEeTraGniT1B9gtKDw4hawWtO.jpg" group-title="PELICULAS  2019",Teen Titans Go! vs. Teen Titans - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mascotas 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqGsG2uNV9JGgrfODbTafPUukci.jpg" group-title="PELICULAS  2019",Mascotas 2 - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3886.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="PELICULAS  2019",Toy Story 4 - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UglyDolls: Extraordinariamente Feos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="PELICULAS  2019",UglyDolls: Extraordinariamente Feos - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After: Aquí empieza todo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" group-title="PELICULAS  2019",After: Aquí empieza todo - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A dos metros de ti - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-title="PELICULAS  2019",A dos metros de ti - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beats - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="PELICULAS  2019",Beats - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infierno bajo el agua - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IV0RCgBBcaBRsUGZ6xvC9T5Kh.jpg" group-title="PELICULAS  2019",Infierno bajo el agua - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crypto - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSeYalxGSsB69rJj4EVy6W4HI7g.jpg" group-title="PELICULAS  2019",Crypto - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Historias de miedo para contar en la oscuridad - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" group-title="PELICULAS  2019",Historias de miedo para contar en la oscuridad - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Am Mother - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8vlQsw17xHd2iIlaAF90lX5bSQ.jpg" group-title="PELICULAS  2019",I Am Mother - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El lado siniestro de la Luna - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn1LVyYKASSsxEp4JCyBRYe3a27.jpg" group-title="PELICULAS  2019",El lado siniestro de la Luna - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En la hierba alta - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOs3Ki8hhRQq3seuZ3c7M8qXHtq.jpg" group-title="PELICULAS  2019",En la hierba alta - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El secuestro de Stella - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ15KHpOOD4moAg8LgE6kG40EJY.jpg" group-title="PELICULAS  2019",El secuestro de Stella - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perseguida - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFbdJeMeTCcZF6BOxIH6Z77MuMx.jpg" group-title="PELICULAS  2019",Perseguida - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stuber Express - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SCb7NfYOrKNMnfCn0LjOPQEVgb.jpg" group-title="PELICULAS  2019",Stuber Express - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nosotros - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SCb7NfYOrKNMnfCn0LjOPQEVgb.jpg" group-title="PELICULAS  2019",Nosotros - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico (Child's play) - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3u6WnH55OvtZKyFHVY984vGprG.jpg" group-title="PELICULAS  2019",Muñeco diabólico (Child's play) - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eli - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" group-title="PELICULAS  2019",Eli - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Endzeit - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtOY82JhMzvejM3efuqDOKrADY5.jpg" group-title="PELICULAS  2019",Endzeit - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cementerio de animales - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" group-title="PELICULAS  2019",Cementerio de animales - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Llorona - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIWytsnEr2aRobU6ERutzewm63.jpg" group-title="PELICULAS  2019",La Llorona - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3907.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bosque maldito - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" group-title="PELICULAS  2019",Bosque maldito - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3908.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La influencia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2uBGdby8j9blwjhUs0xMAsEA2r.jpg" group-title="PELICULAS  2019",La influencia - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Día de muertos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rf6mq7fVaRYugmjXpCgzp3iXnE.jpg" group-title="PELICULAS  2019",Día de muertos - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3910.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino oscuro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="PELICULAS  2019",Terminator: Destino oscuro - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor sueño - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx5zclp0WHZ0gVQ9nyDIwDcgxd.jpg" group-title="PELICULAS  2019",Doctor sueño - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cold Blood Legacy - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a17PQiWS1kzILONsmhdyPDhaOZL.jpg" group-title="PELICULAS  2019",Cold Blood Legacy - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La boda de la abuela - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg" group-title="PELICULAS  2019",La boda de la abuela - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Stop Me Now - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvkz0vDtvE18G3OzKEWk1Cpimjk.jpg" group-title="PELICULAS  2019",Don't Stop Me Now - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RBUCBhi1tqhYf1bGkmzOtIfHIG.jpg" group-title="PELICULAS  2019",Jugando con fuego - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3918.mkv
-#EXTINF:-1 tvg-id="" tvg-name="10-20 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmviFRp9lRoreCI3oj2DL0VMOl9.jpg" group-title="PELICULAS  2019",10-20 - 2010
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dolor y gloria - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kg9rw0qVT0YCtUFXopcJsnDHAK.jpg" group-title="PELICULAS  2019",Dolor y gloria - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El faro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42sQSfRoQH7rOIxC2cDNVaUAtKb.jpg" group-title="PELICULAS  2019",El faro - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La gran mentira - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhiZjKydWHNDPP4xqM9CmA3yBGR.jpg" group-title="PELICULAS  2019",La gran mentira - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harriet - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg" group-title="PELICULAS  2019",Harriet - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mientras dure la guerra - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FjfGLlanl6fhdJCapZ75pYURSK.jpg" group-title="PELICULAS  2019",Mientras dure la guerra - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Huérfanos de Brooklyn - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="PELICULAS  2019",Huérfanos de Brooklyn - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="10/31 Part 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akk9gMzN4xuvNBV1bzleC7DD6f6.jpg" group-title="PELICULAS  2019",10/31 Part 2 - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The King - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83yxRePNAv8249xDgbxxagKTzLl.jpg" group-title="PELICULAS  2019",The King - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wild Rose - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTmP1q4EIdeJWtVjMNX9O0CGoY9.jpg" group-title="PELICULAS  2019",Wild Rose - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A 47 metros 2: El terror emerge - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" group-title="PELICULAS  2019",A 47 metros 2: El terror emerge - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3929.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Invasion - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swVORIKIqn9OByYIFLAH154yhYJ.jpg" group-title="PELICULAS  2019",La Invasion - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3930.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hijo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcytE1v9e4RGjdhDYobbkFUNJxB.jpg" group-title="PELICULAS  2019",El hijo - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arctic Dogs - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg" group-title="PELICULAS  2019",Arctic Dogs - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Countdown - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIPxSmXcZUJ0ZEi8B9Emf8xj6a.jpg" group-title="PELICULAS  2019",Countdown - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3933.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Primal - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg" group-title="PELICULAS  2019",Primal - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3934.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Witches in the Woods - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYlHTdKFnhjNsJ0jvHMsJCIFG0l.jpg" group-title="PELICULAS  2019",Witches in the Woods - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3935.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/797KzFdpG0M5Y3um7ghl3WlvSrR.jpg" group-title="PELICULAS  2019",Monos - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2: La Película - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUDA7p8rKlby7aBD1D0PxovKufZ.jpg" group-title="PELICULAS  2019",Angry Birds 2: La Película - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/3937.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg" group-title="ENTRETENIMIENTO",TLNOVELAS
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/3963
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="CINEMA Y SERIES ",SONY MOVIE CHANNEL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4268
 #EXTINF:-1 tvg-id="" tvg-name="BEINS SPORT ING." tvg-logo="https://mms.businesswire.com/media/20180926006109/es/680910/23/beINSPORTS.jpg" group-title="DEPORTES",BEINS SPORT ING.
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4276
-#EXTINF:-1 tvg-id="" tvg-name="Ballerina - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8wbS7YRoi4kmlrigRHOaATsX6G.jpg" group-title="PELICULAS 2016",Ballerina - 2016
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4303.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL" tvg-logo="" group-title="POR PAISES ",CARACOL INTERNACIONAL
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4305
 #EXTINF:-1 tvg-id="" tvg-name="WWWE" tvg-logo="" group-title="DEPORTES",WWWE
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4306
-#EXTINF:-1 tvg-id="" tvg-name="Emoji: La película - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4oufeiJoVPFu0lbnjIf8SQq51Q.jpg" group-title="PELICULAS 2017",Emoji: La película - 2017
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvania: Perrito - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" group-title="PELICULAS 2017",Hotel Transilvania: Perrito - 2017
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Increíbles 2 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="PELICULAS 2018",Los Increíbles 2 - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallfoot - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPJHWq2BjlLEnWnP54PeoIuT6vP.jpg" group-title="PELICULAS 2018",Smallfoot - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sahara - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/turUYgFnjfsjPssIeWSLiNJFIla.jpg" group-title="PELICULAS 2017",Sahara - 2017
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trolls - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSnfF7Llo47sBP1o3kolTiwCpuu.jpg" group-title="PELICULAS 2016",Trolls - 2016
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bajo cero: milagro en la montaña - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ls2eq1ntyVolXNMVK6VqHjLPuy.jpg" group-title="PELICULAS 2017",Bajo cero: milagro en la montaña - 2017
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: El ascenso de Skywalker - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16G2wZAkmKqSGK3it2VPjco5oyn.jpg" group-title="PELICULAS  2019",Star Wars: El ascenso de Skywalker - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La vida de Pi - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y4X4o2SbW9zBLW56crQDR3WCdI.jpg" group-title="VARIAS",La vida de Pi - 2012
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="VARIAS",Harry Potter y el cáliz de fuego - 2005
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="VARIAS",Harry Potter y el misterio del príncipe - 2009
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="VARIAS",Harry Potter y el prisionero de Azkaban - 2004
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cámara secreta - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="VARIAS",Harry Potter y la cámara secreta - 2002
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del Fénix - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="VARIAS",Harry Potter y la Orden del Fénix - 2007
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="VARIAS",Harry Potter y la piedra filosofal - 2001
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6wsYKdXERaXRdByPsI2O9rn20b.jpg" group-title="VARIAS",Harry Potter y las Reliquias de la Muerte - Parte 1 - 2010
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="VARIAS",Harry Potter y las Reliquias de la Muerte - Parte 2 - 2011
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonic. La película - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="PELICULAS 2020",Sonic. La película - 2020
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg" group-title="PELICULAS 2020",Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) - 2020
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Joker - 2019 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="ESPAÑOL ESPAÑA",Joker - 2019 *
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 - 2019*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="ESPAÑOL ESPAÑA",Toy Story 4 - 2019*
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maléfica: Maestra del mal - 2019*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="ESPAÑOL ESPAÑA",Maléfica: Maestra del mal - 2019*
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino oscuro - 2019*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="ESPAÑOL ESPAÑA",Terminator: Destino oscuro - 2019*
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Diamantes en bruto - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek3NThY7R8OysOuKZrEy7CRl1co.jpg" group-title="PELICULAS  2019",Diamantes en bruto - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El último guerrero - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZIGCeooFN8QDd1A5LpQhdF6D8.jpg" group-title="PELICULAS 2018",El último guerrero - 2018
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/4483.mp4
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="CINEMA Y SERIES ",HBO POP
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4941
 #EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM" tvg-logo="" group-title="CINEMA Y SERIES ",HBO XTREAM
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4942
 #EXTINF:-1 tvg-id="" tvg-name="Shemale Tube TV 1" tvg-logo="" group-title="FOR ADULTS",Shemale Tube TV 1
 http://iptvactivador.online:25461/iptvderegreso/xtreamtvvszui/4943
-#EXTINF:-1 tvg-id="" tvg-name="Secretos de Estado - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmRdVrAy9icP0NWsSjwBUgvlu21.jpg" group-title="PELICULAS  2019",Secretos de Estado - 2019
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/5170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Su Ultimo Deseo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKOfn0b6qDy8KIj1VnNetrCtPAQ.jpg" group-title="PELICULAS 2020",Su Ultimo Deseo - 2020
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/5171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Windermere Children - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okccWF2PgHA8SMB4gJrvTUxTKP9.jpg" group-title="PELICULAS 2020",The Windermere Children - 2020
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/5172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="PELICULAS 2020",Las aventuras del Doctor Dolittle
-http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/5173.mp4
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="PELICULAS 2020",Bloodshot - 2020
 http://iptvactivador.online:25461/movie/iptvderegreso/xtreamtvvszui/5591.mp4
